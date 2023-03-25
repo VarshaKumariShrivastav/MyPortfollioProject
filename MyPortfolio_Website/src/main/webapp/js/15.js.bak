@@ -1,0 +1,8 @@
+/*let str =" this is my school";
+let substring = str.substring(3,10);
+console.log(substring);*/
+
+
+let str = "this is my house he is vere beutyfull";
+let position= str.Indexof('is');
+console.log(position);

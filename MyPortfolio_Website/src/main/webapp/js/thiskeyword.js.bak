@@ -1,0 +1,11 @@
+let x = {
+	firstName:'ajay',lastName:'maurya',
+	av(){
+		console.log("hii av " +x.firstName+ "i have " +car.brand+ "car");
+	}
+};
+x.av();
+let car = {
+	brand : 'tata'
+	model : '2015'
+}

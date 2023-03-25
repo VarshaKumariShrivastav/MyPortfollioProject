@@ -1,0 +1,15 @@
+// let counter = 1;
+ /*
+ for(let counter=1; counter<=10; counter++){
+	 document.write(counter);
+	 document.write('</br>');
+ }
+ */
+ let  a = 0;
+let sum= 1;
+ for(a = 0; a <= 17; a++ sum = sum + a; ){
+	 document.write(a);
+	 document.write(sum);
+	 
+ }
+ 

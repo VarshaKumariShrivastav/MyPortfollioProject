@@ -1,0 +1,3 @@
+let user;
+//document.write(user ?? "guest");
+alert(user ?? "guest");

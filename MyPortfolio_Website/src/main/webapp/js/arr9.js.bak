@@ -1,0 +1,11 @@
+//
+function add(a,b){
+//return a+b; ya ham chahe to
+//     ya
+let d= a+b;
+//return 0;
+	
+}
+let c = add(44,66);
+document.write(c);
+//document.write(c);
